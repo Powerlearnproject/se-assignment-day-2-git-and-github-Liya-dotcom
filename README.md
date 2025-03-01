@@ -3,14 +3,14 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
-##  Version Control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to work on a project simultaneously, tracks changes, and      helps in reverting to previous states if something goes wrong.
+   Version Control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to work on a project simultaneously, tracks changes, and      helps revert to previous states if something goes wrong.
 
-## GitHub is a popular platform for version control because it provides a user-friendly interface for managing Git repositories. It offers features like pull requests, issue tracking, and project boards, which facilitate 
+   GitHub is a popular platform for version control because it provides a user-friendly interface for managing Git repositories. It offers features like pull requests, issue tracking, and project boards, which facilitate 
    collaboration among developers. 
 
-##  Project Integrity: Version control helps maintain project integrity by keeping a history of all changes, allowing developers to track who made what changes and when. This makes it easier to identify and fix issues,        manage contributions from multiple developers, and ensure that the project remains stable and functional.
+   Project Integrity: Version control helps maintain project integrity by keeping a history of all changes, allowing developers to track who made what changes and when. This makes it easier to identify and fix issues,        manage contributions from multiple developers, and ensure that the project remains stable and functional.
 
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+## Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
   Key Steps:
   1. Sign in to GitHub: Log in to your GitHub account.
   2. Create a New Repository: Click on the "+" icon in the top right corner and select "New repository."
@@ -19,7 +19,7 @@
   5. Visibility: Decide whether the repository will be public or private.
   6. Initialize with a README: Optionally, initialize the repository with a README file.
   7. Add .gitignore: Optionally, add a .gitignore file to exclude certain files from version control.
-  8. Choose a License: Optionally Choose a license for your project.
+  8. Choose a License: Choose a license for your project.
 
   Important Decisions:
 
